@@ -1,0 +1,28 @@
+body{
+    background: rgb(110, 108, 108);
+}
+h1{
+    text-align:center;
+}
+#container{
+    background: greenyellow;
+    padding:20px 10px;
+    border-radius: 8px;
+}
+
+#input-el{
+    padding: 10px;
+    width: 50%;
+}
+
+button{
+    padding: 4px;
+}
+
+#ol-el{
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
